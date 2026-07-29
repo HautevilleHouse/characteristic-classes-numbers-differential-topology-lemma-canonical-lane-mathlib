@@ -1,0 +1,9 @@
+import characteristic_classes_numbers_differential_topology_lemma_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace characteristic_classes_numbers_differential_topology_lemma_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end characteristic_classes_numbers_differential_topology_lemma_canonical_lane_mathlib
+end HautevilleHouse
